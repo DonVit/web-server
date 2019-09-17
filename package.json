@@ -1,0 +1,14 @@
+{
+  "name": "@icap/openfindebugserver",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1"
+  }
+}
